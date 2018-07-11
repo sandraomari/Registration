@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="admission_number">Admission Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="registered_login">Already Registered? Login in</string>
+    <string name="register_here">Register Here</string>
+</resources>
